@@ -5,8 +5,8 @@ body {
   background: url(https://binbaz.org.sa/img/pattern.png) 0 200px repeat-x #f9f9f9;
   }
 .sidebar .widget-title h3, #related-wrap h3 {
-  font-size: 16px;
-  color: white;
+  font-size: 40px;
+  color: black;
   }
 .custom-widget .post-title, .PopularPosts .post-title, .related-posts .post-title, .mobile-menu ul li a, #main-menu ul li a {
   font-size: 14px;
