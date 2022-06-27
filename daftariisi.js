@@ -4,7 +4,7 @@ function oc_list_kategori() {
    var c = document.getElementById("bdown");
    var d = document.getElementById("bup");
    
-   if(b === 'none) {
+   if(b === 'none') {
     a.style.display="block";
     c.style.display="none";
     d.style.display="inline-block";
