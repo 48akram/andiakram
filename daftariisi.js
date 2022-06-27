@@ -1,3 +1,4 @@
+//<![CDATA[
 function oc_list_kategori() {
    var a = document.getElementById("akram-playlist");
    var b = window.getComputedStyle(a).getPropertyValue("display");
@@ -57,3 +58,4 @@ function dfisi(disi) {
     document.getElementById("isi-tgl").style.display = "none";
   }
 }
+//]]>
